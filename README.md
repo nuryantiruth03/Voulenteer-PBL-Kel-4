@@ -3,14 +3,14 @@ Sistem aplikasi Community Volunteer Hub yang diberi nama “RinganTangan.id” d
 
 
 Kebutuhan Fungsional Requiment : 
-F001. Pengguna harus melakukan  Registrasi 
-F002. Pengguna dapat melakukan Login
-F002. Sistem menampilkan statistik jumlah relawan, komunitas, dan kegiatan.
-F003. Komunitas dapat mengelola kegiatan 
-F004. Relawan mendaftarkan diri di kegiatan yang tertera.
-F005. Relawan melaporkan kegiatan yang telah mereka lakukan.
-F006. Pengguna dapat mencari kegiatan.
-F007. Pengguna dapat mencari komunitas Sukarelawan.
-F008. Sistem menampilkan informasi tentang komunitas dan kegiatan 
-F009. Komunitas Sukarelawan dapat melihat profil relawan yang mendaftar
-F010. Admin dapat mengelola data relawan dan komunitas.
+    F001. Pengguna harus melakukan  Registrasi 
+    F002. Pengguna dapat melakukan Login
+    F002. Sistem menampilkan statistik jumlah relawan, komunitas, dan kegiatan.
+    F003. Komunitas dapat mengelola kegiatan 
+    F004. Relawan mendaftarkan diri di kegiatan yang tertera.
+    F005. Relawan melaporkan kegiatan yang telah mereka lakukan.
+    F006. Pengguna dapat mencari kegiatan.
+    F007. Pengguna dapat mencari komunitas Sukarelawan.
+    F008. Sistem menampilkan informasi tentang komunitas dan kegiatan 
+    F009. Komunitas Sukarelawan dapat melihat profil relawan yang mendaftar
+    F010. Admin dapat mengelola data relawan dan komunitas.
